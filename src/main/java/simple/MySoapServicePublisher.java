@@ -1,3 +1,5 @@
+package simple;
+
 import javax.xml.ws.Endpoint;
 
 public class MySoapServicePublisher {

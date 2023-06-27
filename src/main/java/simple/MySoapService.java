@@ -1,3 +1,5 @@
+package simple;
+
 import javax.jws.WebMethod;
 import javax.jws.WebService;
 
